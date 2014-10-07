@@ -20,8 +20,7 @@ Febres altas e tosse são os principais sintomas da pneumonia, contudo são sint
 
 ###Principais sintomas da pneumonia:
 
-* Febres altas: Um dos principais sintomas que se instala no organismo é a febre, por norma, acima dos 39oC.
-
+* Febres altas: Um dos principais sintomas que se instala no organismo é a febre, por norma, acima dos 39ºC.
 * Tosse: Na pneumonia é frequente ter tosses secas, que tendem a evoluir para tosse acompanhado por um pequeno sangramento.
 * Dor no tórax: A dor do tórax segue como uma consequência de estar constantemente a tossir, assim como pelo facto dos pulmões estarem como se doridos.
 * Falta de ar: A falta de ar é muito característica desta doença, não conseguirá respirar fundo de modo a encher totalmente os pulmões como normal, sentirá sempre uma pequena falta de ar, cansando-se muito mais facilmente.
