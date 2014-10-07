@@ -39,7 +39,7 @@ Os sintomas da tuberculose são um pouco mais complicados do que os da pneumonia
 ###Principais sintomas da tuberculose:
 
 * Tosse: Tal como na pneumonia, existe uma tosse seca que com o passar do tempo, evolui para febre com pus e sangue.
-* Febre: A febre é em geral muito alta, acima dos 39oC e ocorre especialmente ao anoitecer e ao longo da noite, piorando com o passar do tempo.
+* Febre: A febre é em geral muito alta, acima dos 39ªC e ocorre especialmente ao anoitecer e ao longo da noite, piorando com o passar do tempo.
 * Fadiga: Sentirá um cansaço excessivo, o corpo necessitará de descansar o mais que consiga e mesmo assim sentir-se-á esgotado.
 * Emagrecimento: Por norma, a tuberculose inibe o apetite, pelo que consequentemente existirá um emagrecimento excessivo. Sendo por isso necessário tomar cuidados redobrados.
 
