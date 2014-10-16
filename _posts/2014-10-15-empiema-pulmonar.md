@@ -6,15 +6,15 @@ categories: [derramepleural]
 
 #{{ page.title }}
 
-As doenças de origem respiratória necessitam de um cuidado especial e por isso é necessário que aos primeiros sintomas sejam observados por um especialista, com o intuito de diagnosticar rapidamente e assim conseguir o tratamento adequado para a doença. A empiema pulmonar é uma doença do forro respiratório que necessita de alguns cuidados para que possa ser tratada.
+As doenças de origem respiratória necessitam de um cuidado especial e por isso é necessário que aos primeiros sintomas sejam observados por um especialista, com o intuito de diagnosticar rapidamente e assim conseguir o tratamento adequado para a doença. O empiema pulmonar é uma doença do forro respiratório que necessita de alguns cuidados para que possa ser tratada.
 
 ##Empiema pulmonar, o que é?
 
-O empiema pulmonar consiste na presença de pus na cavidade pleural, entre os pulmões e a parede do tórax, mais concretamente no líquido pleural. Esta doença, conhecida também por piotórax ou pleurite purulenta, pode surgir após uma infeção do pulmão sendo esta uma das suas principais causas. Tal como em outras doenças, a doença passa por várias fases sendo muito importante que o diagnóstico seja realizado em um das primeiras fases para que o tratamento seja eficaz, a empiema pulmonar passa por três estágios, exsudativo, fibrinopurulento e organização.
+O empiema pulmonar consiste na presença de pus na cavidade pleural, entre os pulmões e a parede do tórax, mais concretamente no espaço pleural. Esta doença, conhecida também por piotórax ou pleurite purulenta, pode surgir após uma infeção do pulmão sendo esta uma das suas principais causas. Tal como em outras doenças, a doença passa por várias fases sendo muito importante que o diagnóstico seja realizado em um das primeiras fases para que o tratamento seja eficaz, o empiema pulmonar passa por três estágios, exsudativo, fibrinopurulento e organização.
 
 ##Causas
 
-A causa principal do empiema pulmonar é a infeção pulmonar, ou seja, existe uma infeção em um pulmão, podendo esta ter diversas causas, em que esta se vai espalhar e assim acumular pus no líquido pleural. A acumulação desse pus vai fazer com que os pulmões comecem a ficar sob pressão o que poderá trazer outras complicações. Existem outras possíveis causas, apesar de que estas são menos frequentes do que a acima referida, estas podem ser pneumonia, abcesso pulmonar ou após intervenções cirúrgicas.
+A causa principal do empiema pulmonar é a infeção pulmonar, ou seja, existe uma infeção em um pulmão, podendo esta ter diversas causas, em que esta se vai espalhar e assim acumular pus na cavidade pleural. A acumulação desse pus vai fazer com que os pulmões comecem a ficar sob pressão o que poderá trazer outras complicações. Existem outras possíveis causas, apesar de que estas são menos frequentes do que a acima referida, estas podem ser pneumonia, abcesso pulmonar ou após intervenções cirúrgicas.
 
 ##Sintomas
 
@@ -22,7 +22,7 @@ As doenças respiratórias possuem, na sua maioria, os mesmos sintomas sendo por
 
 ##Diagnóstico
 
-O diagnóstico será feito a partir da análise de alguns exames que terão de ser realizados, tais como uma radiografia ao tórax, analise ao líquido pleural, tomografia computadorizada, é importante realizar uma toracocentese. Sendo que o primeiro exame que deverá ser feito será a auscultação, pois neste exame o médico poderá perceber até que ponto os pulmões estão afetados.
+O diagnóstico será feito a partir da análise de alguns exames que terão de ser realizados, tais como uma radiografia ao tórax, análise ao líquido pleural, tomografia computadorizada, é importante realizar uma toracocentese. Sendo que o primeiro exame que deverá ser feito será a auscultação, pois neste exame o médico poderá perceber até que ponto os pulmões estão afetados.
 
 ##Tratamento
 
