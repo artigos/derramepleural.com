@@ -5,7 +5,7 @@ permalink: anatomofisiologia.html
 categories: [anatomia]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O sistema respiratório é formado por um conjunto de orgãos, que actuando em conjunto, tornam possível o fenómeno da respiração.
 

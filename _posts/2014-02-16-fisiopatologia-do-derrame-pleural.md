@@ -5,7 +5,7 @@ permalink: derrame-pleural-fisiopatologia.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Fisiologicamente existe equilíbrio entre a entrada e saída de líquido na cavidade pleural; de modo a manter constante a quantidade e concentração proteica do fluído pleural. Os movimentos respiratórios, pela alternância da inspiração e expiração, facilitam a reabsorção do líquido e das partículas, assim como a sua progressão nos linfáticos.
 

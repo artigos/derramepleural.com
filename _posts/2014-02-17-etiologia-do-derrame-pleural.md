@@ -5,7 +5,7 @@ permalink: derrame-pleural-etiologia.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As doenças primitivas da pleura são raras, sendo predominante a sua origem por processos patológicos extra-pleurais.
 

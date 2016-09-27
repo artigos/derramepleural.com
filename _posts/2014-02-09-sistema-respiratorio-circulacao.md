@@ -5,7 +5,7 @@ permalink: sistema-respiratorio-circulacao.html
 categories: [anatomia]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os pulmões recebem sangue da circulação pulmonar e da circulação brônquica. A circulação brônquica fornece nutrientes aos tecidos da árvore traqueobrônquica e aquece e humidifica o ar inspirado, mas não participa nas trocas gasosas.
 

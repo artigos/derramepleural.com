@@ -5,7 +5,7 @@ permalink: sistema-respiratorio-respiracao.html
 categories: [anatomia]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O acto de respirar envolve 2 processos interligados, a ventilação e a respiração. Ventilação é o movimento do ar para dentro e para fora dos pulmões. Respiração refere-se às trocas de oxigénio e dióxido de carbono através das membranas celulares.
 
@@ -15,7 +15,7 @@ A distensibilidade e elasticidade são duas propriedades que permitem aos pulmõ
 
 A inspiração só é possível porque os pulmões se expandem, cedendo à pressão do ar a entrar – extensibilidade pulmonar. Na expiração, a expulsão do ar dos pulmões é o resultado da acção de duas forças: força de retracção elástica do parênquima pulmonar e a força produzida pela tensão superficial alveolar. Estas forças tendem a afastar os pulmões (folheto visceral) da caixa torácica (folheto parietal) e a produzir o colapso dos pulmões.
 
-##Inspiração
+## Inspiração
 
 ![Inspiração](assets/sistema-respiratorio-anatomia_clip_image002.jpg)
 
@@ -23,11 +23,11 @@ A inspiração é um fenómeno activo que requer a contracção de certos múscu
 
 Na inspiração forçada a acção do diafragma é potencializada por outros músculos inspiradores; o grande peitoral e o esternocleidomastoideu. Em conjunto, estes músculos elevam a grelha costal proporcionando um ponto fixo aos músculos intercostais externos.
 
-###Mecanismo do diafragma
+### Mecanismo do diafragma
 
 Durante a inspiração, quando o diafragma se contrai, o encurtamento das fibras musculares diminui o comprimento do diafragma aposicionado, havendo uma descida da abóbada diafragmática. O deslocamento axial da abóbada desloca o conteúdo abdominal caudalmente, aumentando a pressão intra-abdominal. Este aumento da pressão abdominal actua como um estabilizador para o tendão central descendente. Então, o encurtamento continuado das fibras costais gera uma tracção superior sobre as costelas inferiores, resultando um movimento para cima e para fora (secundariamente ao fenómeno de alça de balde) da grade costal inferior.
 
-##Expiração
+## Expiração
 
 ![Expiração](assets/sistema-respiratorio-anatomia_clip_image004.jpg)
 

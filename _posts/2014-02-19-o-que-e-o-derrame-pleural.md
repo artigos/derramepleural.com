@@ -5,11 +5,11 @@ permalink: derrame-pleural-derrame-pleural/derrame-pleural-2.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O derrame pleural é uma patologia respiratória do tipo restritivo.
 
-##Definição e algumas considerações
+## Definição e algumas considerações
 
 O derrame pleural é caracterizado pela acumulação de liquido em excesso entre as pleuras e constitui uma manifestação comum de comprometimento pleural tanto primário quanto secundário.
 

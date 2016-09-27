@@ -5,7 +5,7 @@ permalink: derrame-pleural-tratamento.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A terapêutica geral para tratar o derrame pleural passa por:
 

@@ -5,7 +5,7 @@ permalink: derrame-pleural-diagnostico.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os meios de diagnóstico utilizados para detetar o derrame pleural são os seguintes:
 

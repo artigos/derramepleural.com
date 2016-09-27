@@ -5,11 +5,11 @@ permalink: derrame-pleural-tipos-de-fluido.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Entre o espaço pleural pode existir sangue, pus, ar ou linfa. Se existir sangue no espaço pleural é denominado hemotórax; se for pus chama-se empiema; pneumotórax é o nome dado caso exista ar na cavidade pleural; se existir linfa é chamado de quilotórax.
 
-##Quilotórax
+## Quilotórax
 
 O quilotórax é formado quando o ducto linfático torácico é rompido e a gordura entra no espaço pleural. O quilotórax é um fluido leitoso e opalescente; é bacteriostático e não irritativo e tem pouca tendência a formar fibrotórax.
 
@@ -22,7 +22,7 @@ Um fluido pleural que seja esbranquiçado, sem odor e de aparência leitosa suge
 
 Fig. – Aspecto de um quilotórax
 
-##Hemotórax
+## Hemotórax
 
 Hemotórax é a presença de quantidade significativa de sangue no espaço pleural. As causas mais comuns são os traumatismos no tórax penetrantes e não penetrantes.
 Ocasionalmente, procedimentos médicos, tais como a colocação de um cateter venoso central na veia subclávia ou na jugular, produzem um hemotórax.
@@ -36,7 +36,7 @@ As radiografias ao tórax na posição ortostática devem ser obtidas quando pos
 
 Fig.  – Aspecto de um hemotórax
 
-##Fibrotórax
+## Fibrotórax
 
 O fibrotórax é caracterizado por uma fina camada de tecido fibroso na pleura visceral. As três principais causas de fibrotórax são o hemotórax, a tuberculose e o empiema. Como resultado de um espessamento pleural marcado, o hemitórax fica contraído e a sua mobilidade é reduzida. À medida que o fibrotórax evolui, os espaços intercostais diminuem, o tamanho do hemitórax afectado diminui e o mediastino é desviado lateralmente. Radiograficamente, uma fina camada de hipotransparência envolve o pulmão.
 
@@ -45,7 +45,7 @@ O comprometimento da função pulmonar é frequentemente mais severo do que as r
 O tratamento consiste em desfibrosar, com remoção da película fibrosa da pleura visceral. Mas a extensão em que o parênquima pulmonar está envolvido é que vai determinar a quantidade da função respiratória recuperada.
 Se não se encontrar presente nenhuma doença parênquimal, a capacidade vital geralmente melhora consideravelmente.
 
-##Empiema
+## Empiema
 
 A extensão directa de uma infecção pulmonar parênquimal para o espaço pleural causa mais de metade dos casos de empiema; a infecção pós-cirúrgica contribui em 20% dos casos. O empiema também ocorre após um trauma, penetrante ou não, ao tórax. Por vezes bactérias de infecções abdominais, tal como abcessos diafragmáticos, atravessam o diafragma e entram no espaço pleural.
 

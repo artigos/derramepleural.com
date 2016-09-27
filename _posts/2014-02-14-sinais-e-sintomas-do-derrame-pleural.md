@@ -5,13 +5,13 @@ permalink: derrame-pleural-sinais-e-sintomas.html
 categories: [derramepleural]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Na grande maioria dos casos, e independentemente das suas causas desencadeantes, os derrames pleurais apresentam um conjunto sintomatológicos relativamente característicos.
 
 Os sintomas dependem da rapidez da instalação do derrame, se agudo ou de forma insidiosa, e também da sua extensão.
 
-##Sintomas
+## Sintomas
 
 * Dor: tipo pontada, agrava com os movimentos respiratórios e com a tosse. Pode irradiar para o ombro o que indica comprometimento da pleura diafragmática homolateral.
 * Tosse: geralmente seca, quintosa, é muitas vezes dolorosa. A tosse produtiva traduz em regra, a presença de uma lesão parênquimatosa pulmonar associada.
@@ -20,7 +20,7 @@ Os sintomas dependem da rapidez da instalação do derrame, se agudo ou de forma
 
 Na observação, além dos sinais relacionados com a doença primitiva, encontram-se no tórax, em regra, um conjunto de sinais característicos, quando o volume de liquido pleural ultrapassa os 300 cc.
 
-##Sinais físicos
+## Sinais físicos
 
 * Inspecção: o hemitórax atingido pode estar retraído e com hipomobilidade.
 * Palpação: pode haver aumento de resistência, mas é mais importante a diminuição ou abolição completa das vibrações vocais em toda a altura do derrame.
